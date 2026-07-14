@@ -1,4 +1,4 @@
-// Simple animation on scroll
+
 
 window.addEventListener("scroll",()=>{
 
